@@ -46,7 +46,7 @@ The tests demonstrate the following features of `mm-tel-validator`:
 
 ## Supported Myanmar Phone Operators
 
-- Ooredoo
+- Ooredoo (now U9)
 - Telenor (now ATOM)
 - MPT
 - MEC
