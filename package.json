@@ -1,0 +1,27 @@
+{
+  "name": "mm-tel-package-check",
+  "version": "1.0.0",
+  "description": "Test suite for mm-tel-validator package (JavaScript & TypeScript)",
+  "main": "test.js",
+  "scripts": {
+    "test:js": "node test.js",
+    "test:ts": "ts-node test.ts",
+    "test": "npm run test:js && npm run test:ts"
+  },
+  "keywords": [
+    "mm-tel-validator",
+    "test",
+    "myanmar",
+    "phone"
+  ],
+  "author": "Kyaw Soe",
+  "license": "ISC",
+  "dependencies": {
+    "mm-tel-validator": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
