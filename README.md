@@ -1,11 +1,11 @@
-# MM Tel Package Check
+# MM Tel Validator Package Check
 
 Test suite for the [mm-tel-validator](https://www.npmjs.com/package/mm-tel-validator) package, demonstrating usage in both JavaScript and TypeScript.
 
 ## Installation
 
 ```bash
-npm install
+npm i mm-tel-validator
 ```
 
 ## Available Commands
@@ -51,7 +51,3 @@ The tests demonstrate the following features of `mm-tel-validator`:
 - MPT
 - MEC
 - MyTel
-
-## License
-
-ISC
